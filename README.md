@@ -1,5 +1,5 @@
 # /\\/\atthew Doyle 👋 
-username: matthewd0yle2 [^1]
+username: matthewd0yle2 [^1] \
  <br />
 
 >### GitHub Suggested Info
