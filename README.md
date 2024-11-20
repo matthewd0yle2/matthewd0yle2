@@ -1,12 +1,12 @@
 # /\\/\atthew Doyle 👋 
-username: matthewd0yle2 [^1] \
+Username: matthewd0yle2 [^1] \
  <br />
-prefered languages: Python, Fortran90, MATLAB \
-expert python libraries: matplotlib, seaborn, numpy, scipy, OpenCV, pandas \
+Prefered languages: Python, Fortran90, MATLAB \
+Expert python libraries: matplotlib, seaborn, numpy, scipy, OpenCV, pandas \
  <br />
  ### Education
-undergrad: MSci Physics, University of Bristol, Particle Physics Group \
-postgrad: PhD Physics, University of Manchester, Quantum Fluids Group \
+Undergrad: MSci Physics, University of Bristol, Particle Physics Group \
+Postgrad: PhD Physics, University of Manchester, Quantum Fluids Group \
  <br />
 
 >### GitHub Suggested Info
