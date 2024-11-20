@@ -1,16 +1,17 @@
-## Hi there 👋
+## /\\/\atthew Doyle 👋
 
-<!--
-**matthewd0yle2/matthewd0yle2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<--
+Info
+- 🔭 I’m currently working on completing my PhD thesis - Numerical Simulation and Experimental Visualisation of Quantum Turbulence in the Zero Temperature Limit
+- 🌱 I’m currently learning the necessary skills to build full-stack applications. 
+- 👯 I’m looking to collaborate on game design, app building, and physics projects. 
+- 🤔 I’m looking for help with art. 
+- 💬 Ask me about quantum turbulence, or general physics, or about research life in general.
+  
+- 📫 How to reach me: matthewjdoyle@proton.me
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:
+  
+- ⚡ Username *matthewd0yle* is inaccessible due to the experiation of my University of Bristol email address
+  
 -->
