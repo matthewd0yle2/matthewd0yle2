@@ -8,12 +8,12 @@ Info
 - 🤔 I’m looking for help with art. 
 - 💬 Ask me about quantum turbulence, or general physics, or about research life in general.
 
-  //
+\\
 - 📫 How to reach me: matthewjdoyle@proton.me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact:
 
-  //
+\\
 - ⚡ Username *matthewd0yle* is inaccessible due to the experiation of my University of Bristol email address
   
 
