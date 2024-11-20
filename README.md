@@ -1,7 +1,7 @@
 ## /\\/\atthew Doyle 👋
 
 >
-# # # Info
+### Info
 - 🔭 I’m currently working on completing my PhD thesis - Numerical Simulation and Experimental Visualisation of Quantum Turbulence in the Zero Temperature Limit
 - 🌱 I’m currently learning the necessary skills to build full-stack applications. 
 - 👯 I’m looking to collaborate on game design, app building, and physics projects. 
