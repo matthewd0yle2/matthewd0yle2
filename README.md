@@ -1,4 +1,6 @@
 # /\\/\atthew Doyle 👋 
+username: matthewd0yle2 [^1]
+ <br />
 
 >### GitHub Suggested Info
 - 🔭 I’m currently working on completing my PhD thesis - Numerical Simulation and Experimental Visualisation of Quantum Turbulence in the Zero Temperature Limit
@@ -12,7 +14,6 @@
 - ⚡ Fun fact: \
   <br />
 
-[^1]
 
 
 [^1]:⚡ Username *matthewd0yle* is inaccessible due to the experiation of my University of Bristol email address 
