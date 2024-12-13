@@ -23,4 +23,4 @@ Postgrad: PhD Physics, University of Manchester, Quantum Fluids Group \
 
 
 
-[^1]:⚡ Username *matthewd0yle* is inaccessible due to the experiation of my University of Bristol email address 
+[^1]:⚡ Username *matthewd0yle* is inaccessible due to the expiration of my University of Bristol email address 
