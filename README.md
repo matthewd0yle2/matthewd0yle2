@@ -11,13 +11,16 @@ Postgrad: PhD Physics, University of Manchester, Quantum Fluids Group \
 
 >### Profile
 >With my PhD in Quantum Turbulence completed: I am now looking for exciting opportunities to work with code in industry or academia; while enchancing my general coding, machine learning, and front-end skills. 
-
+ <br />
+ 
 ### 2 Programming Goals for 2025
 - Release a 2D video game on Steam. (I'm hoping to power this with PyGame and pixel art assets)
 - Publish an interactive web-application to solve a simple problem (no log-in, minor data-tracking, simple user experience) 
-
+ <br />
+ 
 
 📫 How to reach me: matthewjdoyle@proton.me
+
 😄 Pronouns: he/him
 
 
