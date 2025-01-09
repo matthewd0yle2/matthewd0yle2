@@ -10,7 +10,7 @@ Postgrad: PhD Physics, University of Manchester, Quantum Fluids Group \
  <br />
 
 >### Profile
->With my PhD in Quantum Turbulence completed: I am now looking for exciting opportunities to work with code in industry or academia; while enchancing my general coding, machine learning, and front-end skills. 
+>With my PhD in Quantum Turbulence completed, I am now looking for exciting opportunities to work with code in industry or academia. During this period I am to continuously enchance my general coding, machine learning, and front-end skills. 
  <br />
  
 ### 2 Programming Goals for 2025
